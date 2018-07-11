@@ -1,0 +1,13 @@
+<?php
+
+foreach(glob('*.php') as $filename) {
+
+    $c = file_get_contents($filename);
+
+    $c = preg_replace('#82e7ab1e868d56ac5706ab75bace8d6c#', 'YOUR_DEV_KEY', $c);
+
+    file_put_contents($filename, $c);
+
+}
+
+?>

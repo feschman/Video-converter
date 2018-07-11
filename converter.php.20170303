@@ -1,0 +1,37 @@
+ <?php
+  $base_dir = getcwd();
+  $input_f  = $base_dir."/third.mp4";
+ 
+ // $tempFolder  ='/home/httpd/htdocs/test/mymovie/video';
+ // $mimeType    ='video/mp4';
+ // $extension   = substr($mimeType,strpos($mimeType,'/')+1);
+
+  $height0	  = 1080;
+  // $height0	  = 720;
+  // $height0	  = 360;
+  $bitRate0    = 8192000;
+
+
+ // // // $tmpFilename =  $tempFolder . '.' . $extension;
+ $flags       = ' -flags -global_header -movflags +faststart -y -strict experimental ';
+ $vcodec      = '  -c:v libx264 -vf scale="-2:' . $height0 . '" ';
+ $acodec      = '  -acodec aac -ab 128k -ac 2 -ar 48000 ';
+ $preset      = ' -preset faster ';
+ $profile     = ' -vprofile main -level 4.0 -pix_fmt yuv420p';
+ $frames      = ' -r 25 -keyint_min 50 -g 100 -force_key_frames "expr:gte(t,n_forced*4)" ';
+ $pass        = ' -pass 1 ';
+ $pass        = ' ';
+ $rates       = ' -b:v ' . $bitRate0 .' '.$pass .'  -bufsize ' . $bitRate0 . ' -maxrate ' . $bitRate0 . ' -minrate ' . $bitRate0 . ' ';
+ $threads     = ' -threads 7 ';
+ $sethls      = '-hls_time 8 -hls_list_size 0 ';
+ 
+ $outfile     = '6/video_' . $height0 . '.m3u8 ';
+
+
+
+// $ffmpeg = ffmpeg.' -i ' . $tmpFilename . ' -pass 2 ' . $flags . $vcodec . $acodec . $preset . $profile . $frames . $rates . $threads . $sethls . $outfile ;
+
+exec('ffmpeg -i '.$input_f.' '.$flags.' '.$vcodec.' '. $acodec.' '. $preset.'  '.$profile.' '.$frames .' '.$rates.' '.$threads.' '.$sethls.' '.$outfile);
+
+
+?>

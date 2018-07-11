@@ -1,0 +1,10 @@
+//Video reverse (auch Stimme reverse) konvertieren
+ffmpeg -i video.mp4 -vf reverse -af areverse  reversed2.mp4
+//video reverse konvertieren (nur Video)
+ffmpeg -i video.mp4 -vf reverse reversed.mp4
+//video in Bilder schneiden
+ffmpeg -i video.mp4 -an -qscale 1 %06d.jpg
+//das Video um 90 Grad drehen
+ ffmpeg -i video.mp4 -metadata:s:v rotate="90" -vcodec copy -acodec copy rotate.mp4
+ //Wav zu MP3
+ ffmpeg -i input.wav output.mp3

@@ -1,0 +1,1206 @@
+{
+  "dataVersion" : 1,
+  "variants" : [
+    {
+      "processedSegmentsCount" : 24,
+      "url" : "http:\/\/www.nnw.local\/test\/video_convert\/15\/video_1080.m3u8",
+      "hasDiscSequenceTag" : false,
+      "measuredMeanBitrate" : 8221068,
+      "parsedSegmentsCount" : 24,
+      "hasEndTag" : true,
+      "playlistCodecs" : "mp4a.40.2,avc1.4d401e",
+      "playlistResolutionHeight" : 1080,
+      "measuredMaxBitrate" : 8959516,
+      "independentSegments" : false,
+      "audioGroup" : {
+        "playlistGroupID" : "AUDIO"
+      },
+      "closedCaptionGroup" : {
+        "playlistGroupID" : "CC",
+        "renditions" : [
+          {
+            "persistentID" : 0
+          }
+        ]
+      },
+      "iframeOnly" : false,
+      "playlistKind" : "media",
+      "playlistMaxBitrate" : 8192000,
+      "sslContentDeliveredSecurely" : false,
+      "discontinuities" : [
+        {
+          "segments" : [
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10800.ts",
+              "dataID" : 4,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 0,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10801.ts",
+              "dataID" : 5,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 1,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10802.ts",
+              "dataID" : 6,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 2,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10803.ts",
+              "dataID" : 7,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 3,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10804.ts",
+              "dataID" : 8,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 4,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10805.ts",
+              "dataID" : 9,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 5,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10806.ts",
+              "dataID" : 10,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 6,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10807.ts",
+              "dataID" : 11,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 7,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10808.ts",
+              "dataID" : 12,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 8,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_10809.ts",
+              "dataID" : 13,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 9,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108010.ts",
+              "dataID" : 14,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 10,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108011.ts",
+              "dataID" : 15,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 11,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108012.ts",
+              "dataID" : 16,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 12,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108013.ts",
+              "dataID" : 17,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 13,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108014.ts",
+              "dataID" : 18,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 14,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108015.ts",
+              "dataID" : 19,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 15,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108016.ts",
+              "dataID" : 20,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 16,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108017.ts",
+              "dataID" : 21,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 17,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108018.ts",
+              "dataID" : 22,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 18,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108019.ts",
+              "dataID" : 23,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 19,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108020.ts",
+              "dataID" : 24,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 20,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108021.ts",
+              "dataID" : 25,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 21,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108022.ts",
+              "dataID" : 26,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 22,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_108023.ts",
+              "dataID" : 27,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 6.88,
+              "mediaSequence" : 23,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            }
+          ],
+          "measurements" : {
+            "measuredMaxBitrate" : 8959516,
+            "measuredMeanBitrate" : 8221068.231349539
+          },
+          "tracks" : [
+            {
+              "trackVideoIDRStandardDeviation" : 1.294439827912099,
+              "trackId" : 1,
+              "trackVideoWidth" : 1920,
+              "trackVideoLevel" : 40,
+              "trackVideoHeight" : 1080,
+              "trackMediaType" : "vide",
+              "trackVideoIDRInterval" : 2,
+              "trackVideoIsInterlaced" : false,
+              "trackVideoProfile" : 77,
+              "trackMediaSubType" : "avc1"
+            },
+            {
+              "trackMediaType" : "soun",
+              "trackAudioChannelCount" : 2,
+              "trackId" : 2,
+              "trackAudioSampleRate" : 48000,
+              "trackMediaSubType" : "aac ",
+              "trackAudioChannelLayout" : "Stereo (L R)"
+            }
+          ]
+        }
+      ],
+      "playlistResolutionWidth" : 1920,
+      "playlistTargetDuration" : 8,
+      "gzipEncoded" : false,
+      "dataID" : 1
+    },
+    {
+      "processedSegmentsCount" : 24,
+      "url" : "http:\/\/www.nnw.local\/test\/video_convert\/15\/video_720.m3u8",
+      "hasDiscSequenceTag" : false,
+      "measuredMeanBitrate" : 2169611,
+      "parsedSegmentsCount" : 24,
+      "hasEndTag" : true,
+      "playlistCodecs" : "mp4a.40.2,avc1.4d401e",
+      "playlistResolutionHeight" : 720,
+      "measuredMaxBitrate" : 2342104,
+      "independentSegments" : false,
+      "audioGroup" : {
+        "playlistGroupID" : "AUDIO"
+      },
+      "closedCaptionGroup" : {
+        "playlistGroupID" : "CC",
+        "renditions" : [
+          {
+            "persistentID" : 0
+          }
+        ]
+      },
+      "iframeOnly" : false,
+      "playlistKind" : "media",
+      "playlistMaxBitrate" : 2048000,
+      "sslContentDeliveredSecurely" : false,
+      "discontinuities" : [
+        {
+          "segments" : [
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7200.ts",
+              "dataID" : 28,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 0,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7201.ts",
+              "dataID" : 29,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 1,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7202.ts",
+              "dataID" : 30,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 2,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7203.ts",
+              "dataID" : 31,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 3,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7204.ts",
+              "dataID" : 32,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 4,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7205.ts",
+              "dataID" : 33,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 5,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7206.ts",
+              "dataID" : 34,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 6,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7207.ts",
+              "dataID" : 35,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 7,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7208.ts",
+              "dataID" : 36,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 8,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_7209.ts",
+              "dataID" : 37,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 9,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72010.ts",
+              "dataID" : 38,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 10,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72011.ts",
+              "dataID" : 39,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 11,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72012.ts",
+              "dataID" : 40,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 12,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72013.ts",
+              "dataID" : 41,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 13,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72014.ts",
+              "dataID" : 42,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 14,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72015.ts",
+              "dataID" : 43,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 15,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72016.ts",
+              "dataID" : 44,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 16,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72017.ts",
+              "dataID" : 45,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 17,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72018.ts",
+              "dataID" : 46,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 18,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72019.ts",
+              "dataID" : 47,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 19,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72020.ts",
+              "dataID" : 48,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 20,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72021.ts",
+              "dataID" : 49,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 21,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72022.ts",
+              "dataID" : 50,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 22,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_72023.ts",
+              "dataID" : 51,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 6.88,
+              "mediaSequence" : 23,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            }
+          ],
+          "measurements" : {
+            "measuredMaxBitrate" : 2342104,
+            "measuredMeanBitrate" : 2169611.399832355
+          },
+          "tracks" : [
+            {
+              "trackVideoIDRStandardDeviation" : 1.374602930926976,
+              "trackId" : 1,
+              "trackVideoWidth" : 1280,
+              "trackVideoLevel" : 40,
+              "trackVideoHeight" : 720,
+              "trackMediaType" : "vide",
+              "trackVideoIDRInterval" : 2.021505376344086,
+              "trackVideoIsInterlaced" : false,
+              "trackVideoProfile" : 77,
+              "trackMediaSubType" : "avc1"
+            },
+            {
+              "trackMediaType" : "soun",
+              "trackAudioChannelCount" : 2,
+              "trackId" : 2,
+              "trackAudioSampleRate" : 48000,
+              "trackMediaSubType" : "aac ",
+              "trackAudioChannelLayout" : "Stereo (L R)"
+            }
+          ]
+        }
+      ],
+      "playlistResolutionWidth" : 1280,
+      "playlistTargetDuration" : 8,
+      "gzipEncoded" : false,
+      "dataID" : 2
+    },
+    {
+      "processedSegmentsCount" : 24,
+      "url" : "http:\/\/www.nnw.local\/test\/video_convert\/15\/video_360.m3u8",
+      "hasDiscSequenceTag" : false,
+      "measuredMeanBitrate" : 663617,
+      "parsedSegmentsCount" : 24,
+      "hasEndTag" : true,
+      "playlistCodecs" : "mp4a.40.2,avc1.4d401e",
+      "playlistResolutionHeight" : 360,
+      "measuredMaxBitrate" : 706504,
+      "independentSegments" : false,
+      "audioGroup" : {
+        "playlistGroupID" : "AUDIO"
+      },
+      "closedCaptionGroup" : {
+        "playlistGroupID" : "CC",
+        "renditions" : [
+          {
+            "persistentID" : 0
+          }
+        ]
+      },
+      "iframeOnly" : false,
+      "playlistKind" : "media",
+      "playlistMaxBitrate" : 512000,
+      "sslContentDeliveredSecurely" : false,
+      "discontinuities" : [
+        {
+          "segments" : [
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3600.ts",
+              "dataID" : 52,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 0,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3601.ts",
+              "dataID" : 53,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 1,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3602.ts",
+              "dataID" : 54,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 2,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3603.ts",
+              "dataID" : 55,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 3,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3604.ts",
+              "dataID" : 56,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 4,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3605.ts",
+              "dataID" : 57,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 5,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3606.ts",
+              "dataID" : 58,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 6,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3607.ts",
+              "dataID" : 59,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 7,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3608.ts",
+              "dataID" : 60,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 8,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_3609.ts",
+              "dataID" : 61,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 9,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36010.ts",
+              "dataID" : 62,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 10,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36011.ts",
+              "dataID" : 63,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 11,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36012.ts",
+              "dataID" : 64,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 12,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36013.ts",
+              "dataID" : 65,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 13,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36014.ts",
+              "dataID" : 66,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 14,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36015.ts",
+              "dataID" : 67,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 15,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36016.ts",
+              "dataID" : 68,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 16,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36017.ts",
+              "dataID" : 69,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 17,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36018.ts",
+              "dataID" : 70,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 18,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36019.ts",
+              "dataID" : 71,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 19,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36020.ts",
+              "dataID" : 72,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 20,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36021.ts",
+              "dataID" : 73,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 21,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36022.ts",
+              "dataID" : 74,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 8,
+              "mediaSequence" : 22,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            },
+            {
+              "discontinuityDomain" : 0,
+              "segmentByteRangeLength" : 0,
+              "url" : "video_36023.ts",
+              "dataID" : 75,
+              "videoFrameRate" : 25,
+              "segmentCryptMethod" : "NONE",
+              "videoStartsWithIDR" : true,
+              "segmentDurationTag" : 6.88,
+              "mediaSequence" : 23,
+              "sslContentDeliveredSecurely" : false,
+              "segmentByteRangeOffset" : 0
+            }
+          ],
+          "measurements" : {
+            "measuredMaxBitrate" : 706504,
+            "measuredMeanBitrate" : 663617.9379715004
+          },
+          "tracks" : [
+            {
+              "trackVideoIDRStandardDeviation" : 1.392429353372095,
+              "trackId" : 1,
+              "trackVideoWidth" : 640,
+              "trackVideoLevel" : 40,
+              "trackVideoHeight" : 360,
+              "trackMediaType" : "vide",
+              "trackVideoIDRInterval" : 2.136363636363636,
+              "trackVideoIsInterlaced" : false,
+              "trackVideoProfile" : 77,
+              "trackMediaSubType" : "avc1"
+            },
+            {
+              "trackMediaType" : "soun",
+              "trackAudioChannelCount" : 2,
+              "trackId" : 2,
+              "trackAudioSampleRate" : 48000,
+              "trackMediaSubType" : "aac ",
+              "trackAudioChannelLayout" : "Stereo (L R)"
+            }
+          ]
+        }
+      ],
+      "playlistResolutionWidth" : 640,
+      "playlistTargetDuration" : 8,
+      "gzipEncoded" : false,
+      "dataID" : 3
+    }
+  ],
+  "messages" : [
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "PROGRAM-ID has been deprecated and is no longer a valid attribute for #EXT-X-STREAM-INF",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8192000,RESOLUTION=1920x1080,CODECS=\"mp4a.40.2,avc1.4d401e\",NAME=\"1080p\""
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "Invalid attribute for #EXT-X-STREAM-INF",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8192000,RESOLUTION=1920x1080,CODECS=\"mp4a.40.2,avc1.4d401e\",NAME=\"1080p\""
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "PROGRAM-ID has been deprecated and is no longer a valid attribute for #EXT-X-STREAM-INF",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720,CODECS=\"mp4a.40.2,avc1.4d401e\",NAME=\"720p\""
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "Invalid attribute for #EXT-X-STREAM-INF",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720,CODECS=\"mp4a.40.2,avc1.4d401e\",NAME=\"720p\""
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "PROGRAM-ID has been deprecated and is no longer a valid attribute for #EXT-X-STREAM-INF",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360,CODECS=\"mp4a.40.2,avc1.4d401e\",NAME=\"360p\""
+    },
+    {
+      "errorParserCode" : -12274,
+      "errorComment" : "Invalid attribute for #EXT-X-STREAM-INF",
+      "errorStatusCode" : 0,
+      "errorParserLine" : "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360,CODECS=\"mp4a.40.2,avc1.4d401e\",NAME=\"360p\""
+    },
+    {
+      "errorComment" : "Playlist video level doesn't match parsed video level",
+      "errorReferenceDataID" : 1,
+      "errorStatusCode" : -1,
+      "errorDetail" : "Playlist: 0x1E, Video: 0x28"
+    },
+    {
+      "errorComment" : "Playlist video level doesn't match parsed video level",
+      "errorReferenceDataID" : 3,
+      "errorStatusCode" : -1,
+      "errorDetail" : "Playlist: 0x1E, Video: 0x28"
+    },
+    {
+      "errorComment" : "Playlist video level doesn't match parsed video level",
+      "errorReferenceDataID" : 2,
+      "errorStatusCode" : -1,
+      "errorDetail" : "Playlist: 0x1E, Video: 0x28"
+    },
+    {
+      "errorComment" : "Measured peak bitrate compared to master playlist declared value exceeds error tolerance",
+      "errorReferenceDataID" : 2,
+      "errorStatusCode" : -1,
+      "errorDetail" : "Measured: 2342.10 kb\/s, Master playlist: 2048.00 kb\/s, Error: 12.56%"
+    },
+    {
+      "errorComment" : "Measured peak bitrate compared to master playlist declared value exceeds error tolerance",
+      "errorReferenceDataID" : 3,
+      "errorStatusCode" : -1,
+      "errorDetail" : "Measured: 706.50 kb\/s, Master playlist: 512.00 kb\/s, Error: 27.53%"
+    }
+  ],
+  "playlistKind" : "master",
+  "dataID" : 0,
+  "independentSegments" : false,
+  "gzipEncoded" : false,
+  "validatorVersion" : "1.2(160525)",
+  "validatorTimestamp" : "2017-03-06T16:16:16+01:00",
+  "sslContentDeliveredSecurely" : false,
+  "url" : "http:\/\/www.nnw.local\/test\/video_convert\/15\/video.m3u8"
+}
